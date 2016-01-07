@@ -1,0 +1,24 @@
+.background {
+	background-image: url("http://d27bqd9qyr2lqg.cloudfront.net/2014/home/header-brogramming-niall-phil.jpg");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+
+	height: 1424px;
+
+}
+
+.iconhead{
+
+}
+
+.navtop{
+	text-align: center;
+	float: left;
+	width: 60%;
+	padding: 0;
+	margin: 0;
+	color: white;
+	font-size: 15px;
+
+}
